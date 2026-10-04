@@ -1,0 +1,97 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2042 >>
+stream
+BT
+/F1 18 Tf
+50 740 Td
+(MUHAMMAD AZHAR HASSAN) Tj
+/F1 11 Tf
+0 -22 Td
+(Web Developer | AI & Automation Enthusiast | Software Developer) Tj
+0 -16 Td
+(Email: muhammadazharhassan410@gmail.com | Phone: +92 317 4828429 | Gujranwala, Pakistan) Tj
+0 -16 Td
+(GitHub: github.com/azharhassan410 | LinkedIn: linkedin.com/in/azharhassan410) Tj
+
+0 -32 Td
+/F1 13 Tf
+(SUMMARY) Tj
+/F1 10 Tf
+0 -16 Td
+(Software and Web Developer building modern web applications, intelligent automation, and practical) Tj
+0 -14 Td
+(software solutions. Experienced in MERN stack, Python, REST APIs, Generative AI, and n8n workflows.) Tj
+
+0 -28 Td
+/F1 13 Tf
+(CORE TECHNICAL SKILLS) Tj
+/F1 10 Tf
+0 -16 Td
+(Frontend: React.js, React + Vite, JavaScript, HTML5, CSS3, Tailwind CSS) Tj
+0 -14 Td
+(Backend: Node.js, Express.js, Python, REST APIs) Tj
+0 -14 Td
+(Databases: MongoDB, MySQL, SQLite) Tj
+0 -14 Td
+(AI & Automation: Generative AI, AI-powered Apps, n8n Automation, API Integration) Tj
+0 -14 Td
+(Tools: Git, GitHub, VS Code, Postman, Microsoft Azure) Tj
+
+0 -28 Td
+/F1 13 Tf
+(FEATURED PROJECTS) Tj
+/F1 10 Tf
+0 -16 Td
+(1. Recruiter AI Assistant - AI-assisted candidate search, data processing pipeline, workflow tool) Tj
+0 -14 Td
+(   Technologies: React, Node.js, Generative AI, Python, REST APIs, Tailwind CSS) Tj
+0 -16 Td
+(2. Tuition Management System - Full-stack student enrollment, fee payments, and academic tracking) Tj
+0 -14 Td
+(   Technologies: React, Node.js, Express.js, MongoDB, Tailwind CSS) Tj
+0 -16 Td
+(3. Bike Workshop POS - Offline-first Point of Sale, local persistence, workshop repair logs) Tj
+0 -14 Td
+(   Technologies: JavaScript, React, SQLite / Local DB, CSS3) Tj
+0 -16 Td
+(4. Hospital Management System - Role-based health platform, patient EMR, pharmacy inventory) Tj
+0 -14 Td
+(   Technologies: PHP, MySQL, JavaScript, Bootstrap) Tj
+
+0 -28 Td
+/F1 13 Tf
+(EDUCATION & CERTIFICATIONS) Tj
+/F1 10 Tf
+0 -16 Td
+(BS Computer Science - UET RCET Gujranwala Campus) Tj
+0 -14 Td
+(Certifications: Generative AI, n8n Automation, REST APIs, Azure, Computer Vision) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002335 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2405
+%%EOF
